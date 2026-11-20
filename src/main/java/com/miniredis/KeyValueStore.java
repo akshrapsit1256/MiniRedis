@@ -185,6 +185,13 @@ public void increment(String key) {
 
 
     // ==========================================
+    // PHASE 4 - SNAPSHOT
+    // ==========================================
+    public ConcurrentHashMap<String,CacheEntry> getSnapshot(){
+        return new ConcurrentHashMap<>(data);
+    }
+
+    // ==========================================
     // 7. MAIN METHOD / TESTING
     // ==========================================
 

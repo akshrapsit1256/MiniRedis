@@ -2,7 +2,7 @@ package com.miniredis;
 
 import org.junit.jupiter.api.Test;
 
-import com.miniredis.KeyValueStore;
+// import com.miniredis.KeyValueStore;
 import static org.junit.jupiter.api.Assertions.*;
 
 import java.util.ArrayList;
