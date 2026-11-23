@@ -8,7 +8,7 @@ Instead of building everything at once, I'm developing this project phase by pha
 
 The project is still under development, and I'll keep adding features as I move forward.
 
-## ✨ Features Implemented
+## Features Implemented
 
 ### 1. Basic CRUD Operations
 - Store key-value pairs.
